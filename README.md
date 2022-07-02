@@ -1,4 +1,4 @@
-Phone shop app.
+Phone catalog app
 
 ## Tech stack
 1. HTML.
