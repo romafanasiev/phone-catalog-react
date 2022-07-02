@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/phone-catalog-react/static/css/main.08000e23.css",
+    "main.js": "/phone-catalog-react/static/js/main.b9624ac6.js",
+    "static/media/tel.jpg": "/phone-catalog-react/static/media/tel.8c5f1f1b48f17f86c677.jpg",
+    "static/media/Mont-Regular.ttf": "/phone-catalog-react/static/media/Mont-Regular.e797167c18f9897bb607.ttf",
+    "static/media/Mont-SemiBold.ttf": "/phone-catalog-react/static/media/Mont-SemiBold.0b5e68ebb36ca4006e21.ttf",
+    "static/media/Mont-Bold.ttf": "/phone-catalog-react/static/media/Mont-Bold.3675b597d3ffb2b75168.ttf",
+    "static/media/accessories.jpg": "/phone-catalog-react/static/media/accessories.72de678d7aa4b49e9885.jpg",
+    "static/media/tablets.jpg": "/phone-catalog-react/static/media/tablets.2f41a1b7637db4a0781c.jpg",
+    "static/media/phones.jpg": "/phone-catalog-react/static/media/phones.9fbffbeba581c36534dd.jpg",
+    "static/media/NotFound.jpg": "/phone-catalog-react/static/media/NotFound.f96eec329d0cf1188bbb.jpg",
+    "static/media/Cart.svg": "/phone-catalog-react/static/media/Cart.1962e42406793fa66f0dc11ef36e74ed.svg",
+    "static/media/Heart.svg": "/phone-catalog-react/static/media/Heart.bd243453bcaa747c2d702480d29c0488.svg",
+    "static/media/logo.svg": "/phone-catalog-react/static/media/logo.13ce922e1b9e8d8894f458fe4b1ce3ee.svg",
+    "static/media/Home.svg": "/phone-catalog-react/static/media/Home.e110292ae2cf67d0bacaf1b9d6bf511d.svg",
+    "static/media/Search.svg": "/phone-catalog-react/static/media/Search.66a1fd869fd5e9551d9b.svg",
+    "static/media/HeartSelected.svg": "/phone-catalog-react/static/media/HeartSelected.a50cb178e4751a64f215.svg",
+    "index.html": "/phone-catalog-react/index.html",
+    "static/media/CrossBlack.svg": "/phone-catalog-react/static/media/CrossBlack.2063b2da2e159f85c6c52de7cbef7c67.svg",
+    "static/media/Address.svg": "/phone-catalog-react/static/media/Address.98ff905da9db98653d9f.svg",
+    "static/media/Select.svg": "/phone-catalog-react/static/media/Select.6559e1334e35719e0def.svg",
+    "static/media/StrokeBack.svg": "/phone-catalog-react/static/media/StrokeBack.74ad2c5e6f257a5f3a97.svg",
+    "static/media/SelectTop.svg": "/phone-catalog-react/static/media/SelectTop.df6c57d04d00127a56e0.svg",
+    "main.08000e23.css.map": "/phone-catalog-react/static/css/main.08000e23.css.map",
+    "main.b9624ac6.js.map": "/phone-catalog-react/static/js/main.b9624ac6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08000e23.css",
+    "static/js/main.b9624ac6.js"
+  ]
+}
